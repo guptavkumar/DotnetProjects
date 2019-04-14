@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\App.g.cs
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\WpfTestApplication_MarkupCompile.cache
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\WpfTestApplication.g.resources
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\WpfTestApplication.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\bin\Debug\WpfTestApplication.exe
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\bin\Debug\WpfTestApplication.pdb
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\WpfTestApplication.exe
+c:\users\user\documents\visual studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\WpfTestApplication.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\MyUserControl.baml
+C:\Users\User\Documents\Visual Studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\MyUserControl.g.cs
+C:\Users\User\Documents\Visual Studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Documents\Visual Studio 2010\Projects\WpfTestApplication\WpfTestApplication\obj\x86\Debug\WpfTestApplication_MarkupCompile.lref

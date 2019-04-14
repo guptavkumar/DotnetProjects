@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfTestApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfTestApplication"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="300" />
+            <RowDefinition Height="40" />
+         </Grid.RowDefinitions>
+        <Button Grid.Row="0" Grid.Column="0" Content="Single Thread" Click="Button_Click" HorizontalAlignment="Left" Width="100"/>
+        <Button Grid.Row="0" Grid.Column="1" Content="New Thread" Click="Button_Click_1" HorizontalAlignment="Left" Width="100"/>
+        <Button Grid.Row="0" Grid.Column="2" Content="Dispatcture" Click="Button_Click_2" HorizontalAlignment="Left" Width="100"/>
+        
+        <Label Name="lblThreadResult" HorizontalAlignment="Left" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" />
+        
+        <ListBox Name="listbox1" HorizontalAlignment="Left" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" />
+        
+        <local:MyUserControl ControlText="My first User Control" ForeColour="Red" Grid.Row="3" Grid.Column="0"/>
+     </Grid>
+</Window>
